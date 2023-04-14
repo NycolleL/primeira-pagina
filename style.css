@@ -1,0 +1,17 @@
+body {
+    background-color: blue;
+  }
+  .titulo {
+    color: white;
+  }  
+  * {
+      margin: 2;
+      padding: 1;
+      box-sizing: border-box;
+  }
+body {
+    background-color:white;
+}
+.titulo {
+    color: blueviolet
+}
